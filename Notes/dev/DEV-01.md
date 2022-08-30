@@ -40,7 +40,7 @@
 <img src="../images/DEV-01/DEV-01-B15.png" width="1100"/>
 
 
-## Adding Faces
+## Adding Faces Part 2
 <img src="../images/DEV-01/DEV-01-B16.png" width="1100"/>
 
 <img src="../images/DEV-01/DEV-01-B17.png" width="1100"/>
@@ -65,3 +65,60 @@
 
 <img src="../images/DEV-01/DEV-01-B27.png" width="1100"/>
 
+
+## Adding Face Part 2
+
+<img src="../images/DEV-01/DEV-01-C1.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-C2.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-C3.png" width="1100"/>
+
+    Why do we shade smooth? We do so because we are going to fix single vertices and 
+    we need to see a semblance of the end result to do so.
+
+<img src="../images/DEV-01/DEV-01-C4.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-C5.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-C6.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-C7.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-C8.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-C9.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-C10.png" width="1100"/>
+
+## The Nose and Chin
+
+<img src="../images/DEV-01/DEV-01-D1.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-D2.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-D3.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-D4.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-D5.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-D6.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-D7.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-D8.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-D9.png" width="1100"/>
+
+<!-- <img src="../images/DEV-01/DEV-01-D10.png" width="1100"/> -->
+
+<!-- <img src="../images/DEV-01/DEV-01-D11.png" width="1100"/> -->
+
+<!-- <img src="../images/DEV-01/DEV-01-D12.png" width="1100"/> -->
+
+<!-- <img src="../images/DEV-01/DEV-01-D13.png" width="1100"/> -->
+
+<!-- <img src="../images/DEV-01/DEV-01-D14.png" width="1100"/> -->
+
+<!-- <img src="../images/DEV-01/DEV-01-D15.png" width="1100"/> -->
