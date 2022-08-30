@@ -45,7 +45,7 @@
 
 <img src="../images/DEV-01/DEV-01-B17.png" width="1100"/>
 
-<img src="../images/DEV-01/DEV-01-B18.png" width="1100"/>
+<!-- <img src="../images/DEV-01/DEV-01-B18.png" width="1100"/> -->
 
 <img src="../images/DEV-01/DEV-01-B19.png" width="1100"/>
 
