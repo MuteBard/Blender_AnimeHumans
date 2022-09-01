@@ -180,8 +180,6 @@
 
 <img src="../images/DEV-01/DEV-01-F18.png" width="1100"/>
 
-<img src="../images/DEV-01/DEV-01-F19.png" width="1100"/>
-
 <img src="../images/DEV-01/DEV-01-F20.png" width="1100"/>
 
 <img src="../images/DEV-01/DEV-01-F21.png" width="1100"/>
