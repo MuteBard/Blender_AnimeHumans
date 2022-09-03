@@ -40,52 +40,29 @@
 
 
 ## Create nails
+
 <img src="../images/DEV-04/DEV-04-C1.png" width="1100"/>
+
 <img src="../images/DEV-04/DEV-04-C2.png" width="1100"/>
+
 <img src="../images/DEV-04/DEV-04-C3.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-C4.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-C5.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-C6.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-C7.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-C8.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-C9.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-C10.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-C11.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-C12.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-C13.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-C14.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-C15.png" width="1100"/>
 
-## Topic D
+
+## Adding Wrist
+
 <img src="../images/DEV-04/DEV-04-D1.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-D2.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-D3.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-D4.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-D5.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-D6.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-D7.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-D8.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-D9.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-D10.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-D11.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-D12.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-D13.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-D14.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-D15.png" width="1100"/>
 
-## Topic E
+<img src="../images/DEV-04/DEV-04-D2.png" width="1100"/>
+
+<img src="../images/DEV-04/DEV-04-D3.png" width="1100"/>
+
+<img src="../images/DEV-04/DEV-04-D4.png" width="1100"/>
+
+<img src="../images/DEV-04/DEV-04-D5.png" width="1100"/>
+
+<img src="../images/DEV-04/DEV-04-D6.png" width="1100"/>
+
+## Hand complete
+
 <img src="../images/DEV-04/DEV-04-E1.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-E2.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-E3.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-E4.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-E5.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-E6.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-E7.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-E8.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-E9.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-E10.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-E11.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-E12.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-E13.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-E14.png" width="1100"/>
-<img src="../images/DEV-04/DEV-04-E15.png" width="1100"/>
+
