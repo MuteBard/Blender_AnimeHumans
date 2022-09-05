@@ -12,7 +12,7 @@
 
 <img src="../images/DEV-05/DEV-05-A4.png" width="1100"/>
 
-## Create breasts
+## Create torso and breasts
 
 <img src="../images/DEV-05/DEV-05-B1.png" width="1100"/>
 
