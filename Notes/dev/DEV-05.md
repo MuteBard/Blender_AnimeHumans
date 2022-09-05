@@ -12,28 +12,6 @@
 
 <img src="../images/DEV-05/DEV-05-A4.png" width="1100"/>
 
-<img src="../images/DEV-05/DEV-05-A5.png" width="1100"/>
-
-<img src="../images/DEV-05/DEV-05-A6.png" width="1100"/>
-
-<img src="../images/DEV-05/DEV-05-A7.png" width="1100"/>
-
-<img src="../images/DEV-05/DEV-05-A8.png" width="1100"/>
-
-<img src="../images/DEV-05/DEV-05-A9.png" width="1100"/>
-
-<img src="../images/DEV-05/DEV-05-A10.png" width="1100"/>
-
-<img src="../images/DEV-05/DEV-05-A11.png" width="1100"/>
-
-<img src="../images/DEV-05/DEV-05-A12.png" width="1100"/>
-
-<img src="../images/DEV-05/DEV-05-A13.png" width="1100"/>
-
-<img src="../images/DEV-05/DEV-05-A14.png" width="1100"/>
-
-<img src="../images/DEV-05/DEV-05-A15.png" width="1100"/>
-
 ## Create breasts
 
 <img src="../images/DEV-05/DEV-05-B1.png" width="1100"/>
