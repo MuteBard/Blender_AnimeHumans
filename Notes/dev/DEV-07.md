@@ -61,10 +61,29 @@
 <img src="../images/DEV-07/DEV-07-B18.png" width="1100"/>
 
 
+## Create Thigh Scales
 
+<img src="../images/DEV-07/DEV-07-C1.png" width="1100"/>
 
+## Create tail
 
+<img src="../images/DEV-07/DEV-07-D1.png" width="1100"/>
 
+<img src="../images/DEV-07/DEV-07-D2.png" width="1100"/>
+
+<img src="../images/DEV-07/DEV-07-D3.png" width="1100"/>
+
+<img src="../images/DEV-07/DEV-07-D4.png" width="1100"/>
+
+<img src="../images/DEV-07/DEV-07-D5.png" width="1100"/>
+
+<img src="../images/DEV-07/DEV-07-D6.png" width="1100"/>
+
+<img src="../images/DEV-07/DEV-07-D7.png" width="1100"/>
+
+<img src="../images/DEV-07/DEV-07-D8.png" width="1100"/>
+
+<img src="../images/DEV-07/DEV-07-D9.png" width="1100"/>
 
 
 
